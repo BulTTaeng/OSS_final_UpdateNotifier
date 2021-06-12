@@ -31,16 +31,16 @@ This program will solve those kinds of inconvenience.
 
 First Set your code , so that you can send mail to your account.
 
-![course_button](https://github.com/Choi-JaeHyeok-21500749/OSS_final_21500749/blob/main/aa.PNG)
+![course_button](https://github.com/Choi-JaeHyeok-21500749/OSS_final_UpdateNotifier/blob/main/aa.PNG)
 Go to the gmail and get to the click the button in red circle.
 
-![course_button](https://github.com/Choi-JaeHyeok-21500749/OSS_final_21500749/blob/main/bb.PNG)
+![course_button](https://github.com/Choi-JaeHyeok-21500749/OSS_final_UpdateNotifier/blob/main/bb.PNG)
 Click the button in red circle.
 
 <br><a href = "https://myaccount.google.com/security">https://myaccount.google.com/security</a></br>
 Go to this link and
   
-![course_button](https://github.com/Choi-JaeHyeok-21500749/OSS_final_21500749/blob/main/cccc.PNG)
+![course_button](https://github.com/Choi-JaeHyeok-21500749/OSS_final_UpdateNotifier/blob/main/cccc.PNG)
 Click the app password and generate the app password.
 App password is 16 length string.
 
@@ -50,11 +50,11 @@ Install the headers (pip install ~~)
 
 End before you run the code,
 
-![course_button](https://github.com/Choi-JaeHyeok-21500749/OSS_final_21500749/blob/main/your_email%20here.PNG)
+![course_button](https://github.com/Choi-JaeHyeok-21500749/OSS_final_UpdateNotifier/blob/main/your_email%20here.PNG)
 put your email here and
 
 
-![course_button](https://github.com/Choi-JaeHyeok-21500749/OSS_final_21500749/blob/main/your_email%20and%20password%20here.PNG)
+![course_button](https://github.com/Choi-JaeHyeok-21500749/OSS_final_UpdateNotifier/blob/main/your_email%20and%20password%20here.PNG)
 put your email and app password here!
 
 
